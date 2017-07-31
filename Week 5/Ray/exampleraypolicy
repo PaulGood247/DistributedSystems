@@ -1,0 +1,7 @@
+/* AUTOMATICALLY GENERATED ON Thu Oct 13 11:51:44 BST 2016*/
+/* DO NOT EDIT */
+
+grant signedBy "susan" {
+  permission java.io.FilePermission "C:\\Paul\\College\\Year4\\Distributed Systems\\Week 5\\Ray", "read";
+};
+
